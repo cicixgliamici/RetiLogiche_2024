@@ -98,7 +98,7 @@ Each **word** in memory includes:
 ---
 
 ## Authors
-- **Leonardo Chiaretti**
+- [**Leonardo Chiaretti**](https://github.com/cicixgliamici)
 - **James Enrico Busato**
 
 We hope this project demonstrates both our technical expertise in **FSM design** and our commitment to **reliable, high-performance hardware solutions**. Feel free to open issues or pull requests if you have questions, suggestions, or want to contribute.
