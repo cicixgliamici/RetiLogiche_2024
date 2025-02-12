@@ -1,4 +1,4 @@
-# Reti_Logiche_2024
+# Reti Logiche 2024 - PoliMi
 **RAM Sequence Processing FSM (Finite State Machine)**
 
 Welcome to the **RAM Sequence Processing** project! This repository showcases a hardware-based approach to processing sequences stored in RAM using a custom Finite State Machine (FSM). Written in **VHDL** and designed for **FPGA** deployment, this project highlights efficient memory interactions, robust state management, and a clear, verifiable architecture.
@@ -99,6 +99,6 @@ Each **word** in memory includes:
 
 ## Authors
 - [**Leonardo Chiaretti**](https://github.com/cicixgliamici)
-- **James Enrico Busato**
+- [**Enrico James Busato**](https://github.com/LaJima)
 
 We hope this project demonstrates both our technical expertise in **FSM design** and our commitment to **reliable, high-performance hardware solutions**. Feel free to open issues or pull requests if you have questions, suggestions, or want to contribute.
